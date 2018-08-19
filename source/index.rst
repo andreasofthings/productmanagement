@@ -15,6 +15,9 @@ The Product-Managers's guide to the Galaxy!
    resources
    glossary
 
+.. todolist::
+
+
 Indices and tables
 ==================
 
