@@ -1,5 +1,9 @@
 Glossary
 ========
 
-.. todo::
-  Add content.
+.. glossary::
+
+  WIP
+    Work in Progress
+    
+  
