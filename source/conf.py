@@ -85,6 +85,8 @@ html_theme = 'alabaster'
 html_theme_options = {
     'github_user': 'aneumeier',
     'github_repo': 'productmanagement',
+    'github_button': True,
+    'github_banner': True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
