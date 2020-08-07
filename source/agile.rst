@@ -14,12 +14,13 @@ The term all to often and here in this document exclusively refers to a software
 Scrum
 =====
 
+:ref:`Scrum` is the most popular framework to approach agile projects. It's noteworthy to say that Scrum does not aim to be a methodology rather than a framework in which self organizing teams  can develop their own methods.
 
-.. todo::
-  Add content.
+Founded by
 
+======
 Kanban
-------
+======
 
 .. todo::
   Add content.
